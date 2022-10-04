@@ -1,0 +1,2 @@
+https://colab.research.google.com/drive/1vcJc7TJPyazfD9i7onM_6g22DJPM_G5b?usp=sharing
+http://cs.mipt.ru/advanced_python/lessons/lab16.html
